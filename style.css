@@ -245,3 +245,20 @@ body {
     width: 450px;
 }
 /* newsletter end */
+/* footer part */
+.footer_part {
+    background: black;
+    padding: 5rem 0;
+}
+.footer_part .container {
+    padding: 0 18rem;
+}
+.footer_part h2 {
+    color: grey;
+}
+.footer_part p {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 200;
+    color: white;
+    margin-top: 1rem;
+}
