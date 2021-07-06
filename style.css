@@ -127,6 +127,48 @@ body {
     margin-bottom: 2rem;
     line-height: 1.5;
     letter-spacing: 1px;
-    
 }
 /* about me end */
+/* recipe start */
+.recipe {
+    padding: 5rem 0;
+    background: #E5E5E5;
+}
+.recipe .container {
+    padding: 0 18rem;
+    width: 100%;
+}
+.recipe .heading_part h2 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    margin-bottom: 1.3rem;
+}
+.recipe .heading_part p {
+    width: 50%;
+    margin-left: 20rem;
+}
+.recipe .card_wrapper .card .card_body img {
+   width: 100%;
+   height: 250px;
+   
+}
+.recipe .card_wrapper .card .card_body {
+    padding: 1rem 1.3rem; 
+}
+.recipe .card_wrapper .card .card_body h2 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    margin: 1rem 0;
+}
+.recipe .card_wrapper .card .card_body p {
+    margin-bottom: 1rem;
+}
+.recipe .card_wrapper .card {
+    background-color: #ffffff;
+    margin-right: 2rem;
+    margin-top: 3rem; 
+    border-radius: 1rem;
+}
+
+/* recipie end */
+
